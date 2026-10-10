@@ -1,0 +1,3 @@
+M5SerialPngCapture	KEYWORD1
+captureAndSend	KEYWORD2
+handleScreenshotRequest	KEYWORD2
